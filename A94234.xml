@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pleasant conference betweene a popish recusant, and a Protestant maid. By way of question and answer, touching, some passages in religion. By J. S.</title>
+            <author>J. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94234</idno>
+            <idno type="STC">Wing S81</idno>
+            <idno type="STC">Thomason E112_41</idno>
+            <idno type="STC">ESTC R20465</idno>
+            <idno type="EEBO-CITATION">99864114</idno>
+            <idno type="PROQUEST">99864114</idno>
+            <idno type="VID">116334</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94234)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116334)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E112[41])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pleasant conference betweene a popish recusant, and a Protestant maid. By way of question and answer, touching, some passages in religion. By J. S.</title>
+                  <author>J. S.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Aug. 20. Printed by T. Favvcet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A statement of Puritan tenets.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholics --  England --  Controversial literature --  Early works to 1800.</term>
+               <term>Protestants --  England --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Puritans --  Moral and ethical aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116334:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 64 -->
+            <p>A PLEASANT CONFERENCE BETWEENE A POPISH RECVSANT, AND A PROTESTANT MAID.</p>
+            <p>By way of Queſtion and Anſwer, Touching, ſome Paſſages in Religion.</p>
+            <p>By <hi>J. S.</hi>
+            </p>
+            <p>LONDON, <hi>Aug.</hi> 20. Printed by T. FAVVCET. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:116334:2"/>
+            <!-- PDF PAGE 65 -->
+            <pb n="1" facs="tcp:116334:2"/>
+            <!-- PDF PAGE 65 -->
+            <head>A CONFERENCE BETWEENE <hi>A</hi> POPISH <hi>Recuſant,</hi> AND <hi>A</hi> PROTESTANT <hi>Maid.</hi>
+            </head>
+            <p>Queſt.</p>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hat is your Name?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>ROVND-HEAD.</p>
+            <p>Queſt.</p>
+            <p>
+               <hi>Who gave you this Name?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>My Perſecuters and Slanderers in my infamie, wherin J was made a won<g ref="char:EOLhyphen"/>der to Wiſe men, a jeering ſtocke to Pooles, and an inheritor of the ſcorne and contempt of all the rabblement of Hell.</p>
+            <p>Queſt. <hi>What did your Perſecuters and Slanderers then for you?</hi>
+            </p>
+            <pb n="2" facs="tcp:116334:3"/>
+            <!-- PDF PAGE 66 -->
+            <p>
+               <hi>Anſw.</hi> They did Promiſe and vow three things in my name: Firſt, that they will make me odious to all that be of their fraternity: Secondly, that they will worke my ruine and confu<g ref="char:EOLhyphen"/>ſion: And thirdly, they wiſh that GOD would ſinke them many miles into Hell, if they doe not ſo doe.</p>
+            <p>Queſt.</p>
+            <p>
+               <hi>Doſt thou thinke that thou art bound to beleeve and be affraid of their threatnings?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+            </p>
+            <p>I doubt not, but they ſhall ſinke as deepe in Hell as they doe deſire, nei<g ref="char:EOLhyphen"/>ther doe I queſtion but their will ſhall be accepted for the deed, according to their old tenit, but I am taught not to feare any but only him that is able to caſt both body and ſoule into Hell.</p>
+            <p>Queſt. <hi>But they that are against you are many in number, and great in Power?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Well, if God be for us, its no matter who is againſt us, let <hi>Pharaoh</hi> come, and <hi>Nebuchadnezer, Hamon, Abſo<g ref="char:EOLhyphen"/>lon,</hi>
+               <pb n="3" facs="tcp:116334:3"/>
+               <!-- PDF PAGE 66 -->and <hi>Achittophell, Jezabell, Judas,</hi> and all other tray ors, the <hi>Iriſh</hi> Rebels, the mad<g ref="char:EOLhyphen"/>men in the North, that ſight againſt them<g ref="char:EOLhyphen"/>ſelves and ſome at home that have a mind to be nibling, as well as the reſt of the Serpent ſeed, but they are limitted by an over ruling power, elſe wee had bin de<g ref="char:EOLhyphen"/>voured long ſince; therefore wee need not feare them though they were more in number, and their power as great as the Seaven headed Beaſt can make it.</p>
+            <p>Queſt. <hi>Can nothing hurt you, what ſtrange creatures are you?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Perſecution cannot, for that is our Livery or colours, which ſhewes un<g ref="char:EOLhyphen"/>der whom we are Soldiers, the only way to hurt us, is to let us live at eaſe, for we are like <hi>Camomill,</hi> if we are trod on wee ſhall ſmell the ſweeter and grow better.</p>
+            <p>Queſt. <hi>'Tis well you are ſo confident, but ere it be long your faith is like to come to try<g ref="char:EOLhyphen"/>all, and then we ſhall ſee what mettall you are made of, what can they not caſt you in Pri<g ref="char:EOLhyphen"/>ſon, put you in Pillories, cut off your Eares,
+<pb n="4" facs="tcp:116334:4"/>
+                  <!-- PDF PAGE 67 -->burne your Face, ſtrip you naked in froſt and ſnow, kicke your Bibles and curſe them, hang you, drowne, ſtab you and ſuch like?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> All this they may doe and yet not hurt us, but not without commiſſion from GOD; now God will never hurt <hi>Round-heads</hi> if they be <hi>Sound-heads,</hi> God never intended hurt to JOB when he gave commiſſion to Sathan to afflict his Car<g ref="char:EOLhyphen"/>kaſſe for the tryall of his Faith and Pati<g ref="char:EOLhyphen"/>ence, neither did he loſe any thing there<g ref="char:EOLhyphen"/>by in concluſion; ſo we it may be muſt ſuffer for a while, but in the end we ſhall ſee who ſhall have the worſt of it.</p>
+            <p>Queſt. <hi>What have you done to theſe poore wretches, that they rage againſt you ſo like Mad-men, doe not you vſe to Preach in a Tab as they ſay you doe?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> What if we doe, is that ſuch a capitall Crime that nothing but our ru<g ref="char:EOLhyphen"/>ine and confuſion can make ſatisfaction, the old <hi>Whore</hi> begins to ſtinke, and ſhee would faine father ſome of her Beaſtli<g ref="char:EOLhyphen"/>neſſe upon us; they can not ſay, we uſe
+<pb n="5" facs="tcp:116334:4"/>
+               <!-- PDF PAGE 67 -->to lay tubbes of Gunpowder under the Parliament Houſe, but let them be doing, be that hath ſet them a worke will pay them their wages, all this while they are meriting, and they will ſhortly come to workes of <hi>Supererogation,</hi> let us not doubt but they ſhall have a reward anſwerable to their workes.</p>
+            <p>Queſt. <hi>Well, looke to it Round-head, there's rods in piſſe for you to be ſure, what think you of it:</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> We doe both thinke and know, that the rod of the wicked ſhall nor alwayes reſt upon lot of the righteous, the Lord can chaſtiſe us with rods for our profit, and afterwards burne them in Hell, as they deſperately deſire in their blaſphe<g ref="char:EOLhyphen"/>mous and curſed execrations: The Lord preſerve <hi>Hull,</hi> as for Hell it is their portion, they wil ne<g ref="char:EOLhyphen"/>ver be quiet till they have it in full poſſeſſion, in<g ref="char:EOLhyphen"/>deed they have well deſerved it long agoe, and without repentance they muſt of neceſſity have t.</p>
+            <p>Queſt. <hi>Doe they that are at ſo great a diſtance from Round-heads, practiſe any thing that is amiſſe, far be it from them to preach in a Tub.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Indeed ſwearing, curſing, oaths of the new f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhion, lying, whoring, is nothing, murthe<g ref="char:EOLhyphen"/>ring Hereticks, Sabbath-breaking, coveting Hereticks goods, ruinating whole Kingdomes
+<pb n="6" facs="tcp:116334:5"/>
+               <!-- PDF PAGE 68 -->by treaſon, all this and more his Holineſſe can pardon, but hath never a Bull for ſuch as preach in a Tub, they muſt be curſt with Bell, Booke, and Candle; ſee, ſee, their matchleſſe charitie, they brag of ſo much ſurly they will ſhortly ſpoyle the faſhion of their Chriſtianity, and prove downe-right devils.</p>
+            <p>Queſt. <hi>If you Round heads were once brought to ruine, they are like to prove admirable ſubjects.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> But ſtay, we have a God that can pre<g ref="char:EOLhyphen"/>ſerve us, bleſſed for ever be his great and holy Name, for bleſſing us with ſuch a bleſſed Parlia<g ref="char:EOLhyphen"/>ment, whom they call Round-heads, for dealing ſo roundly with them; Let us not feare but that power that hath kept them hitherto, will keep<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them ſtill in diſpight of all the Dragons malice with all his wicked angels to help him; they that cannot willingly and freely dye with and for ſuch a Parliament, are not worthy to live to enjoy ſuch precious mercies, the Lord enable us to gird up the loynes of out mindes, and to bee ſtrong in the Lord, and in the power of his might the Lord proſper our ſweet Parliament, and en<g ref="char:EOLhyphen"/>able us all cheerefully to reſigne up out ſelves to undergoe whatſoever he in wiſdome knowes beſt for his ovvne honour and glory, for that is beſt for his ovvne people though vvicked men doe not ſo thinke.</p>
+            <p>
+               <hi>Farewell Round head.</hi>
+            </p>
+            <p>
+               <hi>If I can beleeve all things are poſsible, for Faith will carry me where I ſhall farewell for ever.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
